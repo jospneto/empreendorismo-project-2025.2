@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind layers;
+
+@layer base {
+  :root {
+    --catolica-blue: #020659;
+    --catolica-light-blue: #022873;
+  }
+}
